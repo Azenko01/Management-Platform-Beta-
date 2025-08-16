@@ -38,7 +38,7 @@ This is a beta version, showcasing the frontend logic of task and board manageme
 🐳 Docker setup for deployment
 
 🛠 Tech Stack
-
+---
 Frontend: Next.js, React, TypeScript
 
 UI: TailwindCSS + custom UI components
