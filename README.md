@@ -4,7 +4,7 @@ A Kanban-style project management tool (Trello/Jira clone) built with Next.js, R
 This is a beta version, showcasing the frontend logic of task and board management with a modern UI.
 
 🚀 Features (Beta)
-
+-----------
 📋 Kanban Board with draggable task cards
 
 ➕ Add / Edit / Delete tasks via modal dialogs
@@ -16,9 +16,9 @@ This is a beta version, showcasing the frontend logic of task and board manageme
 🌗 Dark/Light theme toggle
 
 🖥 Responsive design for desktop and mobile
---------
-🔮 Planned Features (Full Release)     
 
+🔮 Planned Features (Full Release)     
+----------
 🔐 Authentication (JWT-based)
 
 🗄 Backend API with Express.js / Laravel
