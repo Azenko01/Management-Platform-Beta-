@@ -16,16 +16,25 @@ This is a beta version, showcasing the frontend logic of task and board manageme
 🌗 Dark/Light theme toggle
 
 🖥 Responsive design for desktop and mobile
-
+--------
 🔮 Planned Features (Full Release)     
+
 🔐 Authentication (JWT-based)
+
 🗄 Backend API with Express.js / Laravel
+
 💾 Database integration (PostgreSQL / MySQL / MongoDB)
+
 🌍 Multiple boards & workspaces
+
 👥 User roles & permissions
+
 🔔 Notifications & deadlines
+
 🔄 Real-time updates (WebSockets)
+
 ✅ Unit & e2e tests (Vitest + Cypress)
+
 🐳 Docker setup for deployment
 
 🛠 Tech Stack
