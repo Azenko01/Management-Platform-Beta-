@@ -3,22 +3,22 @@
 A Kanban-style project management tool (Trello/Jira clone) built with Next.js, React (TypeScript), TailwindCSS.
 This is a beta version, showcasing the frontend logic of task and board management with a modern UI.
 
-🚀 Features (Beta)
+   🚀 Features (Beta)
 
 📋 Kanban Board with draggable task cards
 
 ➕ Add / Edit / Delete tasks via modal dialogs
 
 🎨 Modern UI powered by TailwindCSS and custom components
-
+    
 📊 Task statistics (basic)
 
 🌗 Dark/Light theme toggle
 
 🖥 Responsive design for desktop and mobile
 
-🔮 Planned Features (Full Release)
-
+  🔮 Planned Features (Full Release)
+         
 🔐 Authentication (JWT-based)
 
 🗄 Backend API with Express.js / Laravel
@@ -49,17 +49,6 @@ Backend (Planned): Node.js (Express) or PHP (Laravel)
 
 Database (Planned): PostgreSQL / MySQL
 
-⚙️ Getting Started (Beta)
-1. Clone & Install
-git clone https://github.com/YOUR_USERNAME/project-management-platform.git
-cd project-management-platform
-npm install
-
-2. Run Dev Server
-npm run dev
-
-
-App runs at 👉 http://localhost:3000
 
 📌 Status
 
